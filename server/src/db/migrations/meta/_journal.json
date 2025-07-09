@@ -15,6 +15,13 @@
       "when": 1752006141989,
       "tag": "0001_strong_marten_broadcloak",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752100850634,
+      "tag": "0002_overjoyed_naoko",
+      "breakpoints": true
     }
   ]
 }
